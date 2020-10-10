@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+		"baseUrl": ".",
+		"preserveSymlinks": true,
+		"paths": {
+			"*": [
+				"node_modules/*",
+				"/Users/mprinc/data/development/colabo-zontik/colabo/src/isomorphic/puzzles/rima/aaa/node_modules/*",
+				"/Users/mprinc/data/development/colabo-zontik/colabo/src/isomorphic/node_modules/*"
+			],
+			"relative": [
+				"r"
+			],
+			"absolute": [
+				"/Users/mprinc/data/development/colabo-zontik/colabo-lab/typescript/tsconfig-paths/tsconfig-paths-absolute/a"
+			],
+		},
+	},
+}

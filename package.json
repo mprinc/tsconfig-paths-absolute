@@ -1,0 +1,19 @@
+{
+  "name": "tsconfig-paths-absolute",
+  "version": "0.0.1",
+  "description": "Testing issues with tsconfig-paths (absolute, etc)",
+  "main": "dist/index.js",
+  "exports": {
+  },
+  "author": "Sasha Rudan",
+  "license": "MIT",
+  "repository": "https://github.com/mprinc/tsconfig-paths-absolute",
+  "files": [
+  ],
+  "devDependencies": {
+  },
+  "dependencies": {
+  },
+  "scripts": {
+  }
+}
